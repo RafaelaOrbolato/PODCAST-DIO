@@ -11,10 +11,7 @@ Capcut
 Roteiro gerado via chatgpt
 Áudio gerado pela elevenLabs
 Midjourney Para gerar capas
-Capcut para tratar áudio e adicionar sons de fundo
-
-
-https://github.com/user-attachments/assets/daa0f223-2cc0-4edc-92a6-bd8361292ee2
+Capcut para tratar áudio e adicionar sons de fundo 
 
 
 📚 Materiais
@@ -28,3 +25,6 @@ Utilize os prompts do link Notionfornecido na parte de Materiaispara criar um po
 🤖 1. Use os prompts de roteiro nochagpt
 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
 🤖 3. Use os prompts de artes nomidjourney
+
+
+[lv_0_20251025083848.mp3](https://github.com/user-attachments/files/23142138/lv_0_20251025083848.mp3)
